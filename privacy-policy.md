@@ -1,144 +1,90 @@
-# Privacy Policy — VersionMe
+VERSIONME — PRIVACY POLICY
+Last updated: May 2026
 
-Last updated: March 31, 2026
-Effective date: March 31, 2026
+1. OVERVIEW
+VersionMe is designed with privacy in mind. We collect
+minimal data necessary to provide the service.
 
----
+2. DATA WE COLLECT
 
-## 1. Introduction
+2.1 Data you provide:
+    - Your first name (entered during onboarding)
+    - Goals you create and their titles
+    - Custom goal descriptions
+    - Reflection journal entries
+    - Outcome check-in values (e.g., "ran 15 minutes")
 
-Welcome to VersionMe. This Privacy Policy explains how VersionMe
-("we", "us", "our", or "the App") handles your information when you
-use our iOS application. We are committed to protecting your privacy
-and being transparent about our data practices.
+2.2 Data generated automatically:
+    - Mission completion records
+    - Streak and level progress
+    - Difficulty ratings you assign to missions
+    - App usage dates
 
----
+2.3 Data we do NOT collect:
+    - Email address or account credentials
+    - Location data
+    - Health kit or fitness tracker data
+    - Device identifiers for advertising
+    - Contacts or social data
 
-## 2. Information We Collect
+3. HOW WE USE YOUR DATA
 
-### 2.1 Information You Provide
+3.1 All data is stored locally on your device and
+    optionally in your private iCloud account via CloudKit.
 
-You may optionally enter the following information in the App:
-- Your name (for personalization only)
-- Personal goals you choose to track
-- Daily mission completion records
-- Mood check-in responses
-- Optional journal/reflection text entries
+3.2 When you use Vex Pro AI features, limited data is
+    sent to Anthropic's API to generate coaching responses:
+    - First name, goal title, level, streak,
+      completion rate, skill level, difficulty average
+    This data is used only for generating your response
+    and is not retained by us after the API call.
 
-ALL of this information is stored exclusively on your device using
-Apple's SwiftData framework. It is never transmitted to our servers,
-third-party services, or any other external destination.
+3.3 When you create a custom goal, your goal description
+    text is sent to Anthropic's API to generate missions.
 
-### 2.2 Information We Do NOT Collect
+3.4 We do not sell your data. Ever.
+3.5 We do not use your data for advertising.
+3.6 We do not share your data with third parties
+    except Anthropic (AI processing) and Apple (iCloud sync).
 
-We do not collect, process, or transmit:
-- Real name, email address, or any contact information
-- Location data (precise or approximate)
-- Health or fitness metrics from Apple Health or HealthKit
-- Device identifiers (IDFA, IDFV, or similar)
-- Advertising identifiers
-- Analytics or behavioral data
-- Crash reports (beyond what Apple automatically provides
-  to developers through the Apple Developer portal)
-- IP addresses or network information
-- Camera, microphone, or photo library data
+4. THIRD-PARTY SERVICES
 
----
+4.1 Anthropic, PBC (Claude API)
+    Used for: AI coaching responses and mission generation
+    Data sent: name, goal stats (see 3.2 and 3.3)
+    Their privacy policy: anthropic.com/privacy
 
-## 3. In-App Purchases
+4.2 Apple CloudKit
+    Used for: iCloud sync across your devices
+    Data stored: all app data in your private container
+    Apple cannot access your private CloudKit data.
+    Their privacy policy: apple.com/privacy
 
-VersionMe offers "VersionMe Premium," a one-time non-consumable
-in-app purchase processed entirely through Apple's App Store.
+5. DATA RETENTION
+Your data remains on your device and iCloud until you:
+    - Delete the app
+    - Clear your data within the app
+    - Delete your iCloud data from Settings
 
-- We do not collect, store, or have access to your payment information
-- Purchase verification is handled locally on your device via StoreKit
-- Transaction receipts are managed by Apple, not by us
-- For Apple's data practices: https://www.apple.com/legal/privacy/
+6. CHILDREN'S PRIVACY
+VersionMe is not directed at children under 13.
+We do not knowingly collect data from children under 13.
 
----
+7. YOUR RIGHTS
+You can delete all your data by:
+    - Deleting the app from your device
+    - Going to Settings → Apple ID → iCloud →
+      Manage Storage → VersionMe → Delete Data
 
-## 4. Local Data Storage
+8. SECURITY
+Your data is protected by:
+    - On-device storage (not on our servers)
+    - Apple's iCloud encryption
+    - HTTPS for all API communications
 
-All data you create in VersionMe is stored locally on your iPhone using
-SwiftData. This includes:
-- Goal selections and progress
-- Mission completion history
-- Streak and badge data
-- Notification preferences
+9. CHANGES TO THIS POLICY
+We will notify you of significant changes through the app.
+Continued use constitutes acceptance of the updated policy.
 
-This data:
-- Does NOT sync to iCloud
-- Does NOT transmit to any server
-- Is permanently deleted when you delete the App
-- Is not accessible to us or any third party
-
----
-
-## 5. Third-Party Services
-
-VersionMe does not integrate with:
-- Analytics platforms (no Firebase, Mixpanel, Amplitude, etc.)
-- Advertising networks
-- Social media platforms
-- Any third-party SDKs that collect user data
-
-The only external service used is Apple's StoreKit for purchase
-processing, which is subject to Apple's own Privacy Policy.
-
----
-
-## 6. Notifications
-
-VersionMe may request permission to send local notifications
-(morning motivation and evening reminders). These notifications:
-- Are generated locally on your device
-- Do not transmit data to any server
-- Can be disabled at any time in iPhone Settings > VersionMe
-
----
-
-## 7. Children's Privacy
-
-VersionMe is not directed to children under the age of 13.
-We do not knowingly collect personal information from children
-under 13. The App is rated 4+ on the App Store for general audiences.
-
----
-
-## 8. Data Security
-
-Since all data remains on your device, your data security is
-protected by your iPhone's built-in security features, including
-device encryption and Face ID/Touch ID protection.
-
----
-
-## 9. Your Rights
-
-Since we do not collect your data, there is no data held by us
-to access, correct, export, or delete. To delete all VersionMe data,
-simply delete the App from your iPhone.
-
----
-
-## 10. Changes to This Policy
-
-We may update this Privacy Policy from time to time.
-Changes will be reflected by updating the "Last updated" date above.
-Significant changes will be noted in the App's release notes.
-Continued use of the App after changes constitutes your acceptance.
-
----
-
-## 11. Contact Us
-
-For any privacy-related questions or concerns, please contact:
-
-Email: kongkan.cp@gmail.com
-
-We aim to respond to all inquiries within 5 business days.
-
----
-
-*VersionMe is developed and maintained by an independent developer.*
-*This app is not affiliated with Apple Inc.*
+10. CONTACT
+For privacy questions or data deletion requests: kongkan.cp@gmail.com
